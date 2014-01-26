@@ -1,0 +1,12 @@
+station_train_code 火车列次
+["gr_num"]=>高级软卧
+["qt_num"]=>其他
+["rw_num"]=> 软卧
+["rz_num"]=>软座
+["tz_num"]=>特等座
+["wz_num"]=>无座
+["yw_num"]=>硬卧
+["yz_num"]=>硬座
+["ze_num"]=>二等座
+["zy_num"]=> 一等座
+["swz_num"]=> 商务座
